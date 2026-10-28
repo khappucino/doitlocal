@@ -15,7 +15,7 @@ export const siteConfig = {
    * Public URL of the deployed site, including any sub-path and a trailing slash.
    * Used for canonical links, Open Graph tags and the sitemap.
    */
-  siteUrl: 'https://juanjovel.github.io/DoItLocal/',
+  siteUrl: 'https://khappucino.github.io/doitlocal/',
   license: 'MIT',
   /** Page background (deep carbon black), used for the manifest and browser UI color. */
   themeColor: '#070c08',
